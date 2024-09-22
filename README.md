@@ -1,6 +1,6 @@
-# React + Vite
+# This is my portfolio I have used tailwind and ReactJs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```This minimistic Portfolio``` 
 
 Currently, two official plugins are available:
 
